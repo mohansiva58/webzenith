@@ -1,0 +1,22 @@
+{
+  "name": "rbac-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-Stack RBAC Application - Webzenith Solutions Technical Assignment",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "clean": "turbo run clean"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.0",
+  "devDependencies": {
+    "turbo": "^1.12.0",
+    "typescript": "^5.3.3"
+  }
+}
