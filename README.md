@@ -347,16 +347,5 @@ This project was built for the Webzenith Solutions Technical Assignment. For pro
 
 ---
 
-## 📄 License
 
-MIT License - feel free to use this for your own projects!
 
----
-
-## 📞 Support
-
-For questions or issues, please open a GitHub issue or contact the development team.
-
----
-
-**Built with ❤️ for Webzenith Solutions**
